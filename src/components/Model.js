@@ -19,7 +19,7 @@ export default class Model extends Component {
             left: "50%",
             transform: "translateX(-50%)",
             width: "57%",
-            opacity: "90%",
+            opacity: "80%",
           }}
         >
           <img src={item.url} alt="" className="img-fluid" />
